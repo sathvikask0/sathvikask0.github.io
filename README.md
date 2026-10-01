@@ -2,7 +2,7 @@
 
 Personal website focused on longevity, healthspan, intelligence, and evidence.
 
-**Website:** https://sathvikask0.github.io/
+**Website:** https://asksathvik.com/
 
 ## Edit the site
 
